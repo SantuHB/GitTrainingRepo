@@ -1,4 +1,4 @@
-async
+async Uses
 	It defines a function that handles asynchronous operations
 	It always returns a Promise.
 	
