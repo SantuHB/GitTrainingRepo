@@ -1,0 +1,10 @@
+async
+	It defines a function that handles asynchronous operations
+	It always returns a Promise.
+	
+await
+	await pauses the function’s execution until the Promise on the right resolves and then resumes execution with promise result.
+
+Promise
+	It used to handle asynchronous operations. It is used to find out if the asynchronous operation is successfully completed or not
+
