@@ -1,0 +1,10 @@
+
+develop .net web api core SmartPay - Digital Payments & Expense Management with all models , controller and ef core with repository pattern with complete source code and directory structure with sql server complete db tables with sample data for following project with user and admin modules with employee controller and admin controller with login model use ef core with repository pattern 
+
+SmartPay - Digital Payments & Expense Management
+SmartPay.NET streamlines digital payments and expense management by replacing manual, error-prone processes with a secure workflow system. It ensures transparency, faster approvals, and audit-ready financial operations across the organization
+
+Tech Stack: .NET 7/8 Web API, EF Core, JWT Security, and SQL Server/PostgreSQL for building secure, scalable backend services
+Modules: Authentication & User Management; Role-based Access; Expense Submission; Approval Workflow; Transaction Ledger; Notifications; Dashboards & Reports
+
+employee expense tracker application with employee and admin modules list all functionalities step by step explanation with proper authentication and authorization with JWT . add admin and employee dashboard for same with db schema design with all tables and stored procedure  
